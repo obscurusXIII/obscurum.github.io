@@ -1,0 +1,15 @@
+* {
+    font-family: "charter";
+}
+
+*::selection {
+    background-color: #ca65ff;
+}
+
+body,html {
+    background: #efede5;
+}
+
+article p {
+    text-align: justify !important;
+}

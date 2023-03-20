@@ -21,8 +21,8 @@ pygmentsUseClasses = true
 
 [menu]
 	[[menu.main]]
-		name = "Post"
-		url = "/post/"
+		name = "Blog"
+		url = "/blog/"
 	
 	[[menu.main]]
 		name = "About"
@@ -35,7 +35,7 @@ pygmentsUseClasses = true
 	# If false, use minified CSS (ui.min.css)
 	debugCSS = false
 	# Custom CSS
-	customCSS = []
+	customCSS = ["/css/resets.css"]
 	
 	# Site meta description
 	description = "Obscurus scribit ..."
@@ -68,9 +68,9 @@ pygmentsUseClasses = true
 	# Color of your website's accent
 	colorTheme = "#ca65ff"
 	# Maximum number of item in Latest Posts or Works
-	latestCount = 3
+	latestCount = 5
 	# Path to site's favicon image
-	faviconImg = ""
+	faviconImg = "/icons/favicon.ico"
 	# Date format in item list
 	dateFmt = "Jan 02, 2006"
 
@@ -80,9 +80,9 @@ pygmentsUseClasses = true
 	highlightJsStyle = "ocean"
 
 	# Social Links
-	email = "mail@yurizal-san.com"
-	github = "https://github.com/yursan9/"
-	twitter = "https://twitter.com/yuri_boya"
+	email = "pe.and.dy@gmail.com"
+	github = "https://github.com/obscurusXIII/"
+	twitter = "https://twitter.com/obscurusXIII"
 
 
 # Language Configuration
