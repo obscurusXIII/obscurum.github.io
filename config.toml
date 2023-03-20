@@ -1,9 +1,9 @@
 baseURL = "obscurum.ink"
-title = "Manis"
-theme = "manis-hugo-theme"
+title = "Obscurum"
+theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2019 Yurizal Susanto"
+copyright = "&copy; bro, idc"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
@@ -38,9 +38,9 @@ pygmentsUseClasses = true
 	customCSS = []
 	
 	# Site meta description
-	description = "Sweet little Hugo's theme for personal website or blog."
+	description = "Obscurus scribit ..."
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Nothing sweeter than this"
+	tagline = "Obscurus scribit ..."
 	# If true give attribution to this theme
 	themeAttrib = true
 	# URL to license file, can be outside of your domain
