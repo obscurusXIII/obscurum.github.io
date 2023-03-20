@@ -4,7 +4,7 @@ date: 2023-03-20T02:25:24+03:30
 draft: false
 ---
 
-Happy Noruz (No, not Nowruz). These are trying times for my brothers and sisters in Iran. Sometimes it feels like everything is on fire around us, and there is li'l ol' me occupying myself with leeth and letter while my homeland burns down.
+Happy Noruz (No, not Nowruz). These are trying times for my brothers and sisters in Iran. Sometimes it feels like everything is on fire around us, and there is li'l ol' me occupying myself with [leeth](https://anglisc.miraheze.org/wiki/Anglish_Wordbook#:~:text=leeth-,lee%C3%BE,-%E1%9B%AB%20a%20poem%20%E1%9B%AB%20an) and letter while my homeland burns down.
 
 But life goes on...
 
